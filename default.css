@@ -1,3 +1,13 @@
 .body {
-  justify-content:center;
+  text-align: center;
+  font-family: georgia;
+}
+.h1 {
+  font-size: 72;
+}
+.h2 {
+  font-size: 50;
+}
+.a {
+  font-size: 32;
 }
