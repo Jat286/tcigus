@@ -1,2 +1,2 @@
-# tcigus
-Languages of Tcigus
+# TCIGUS
+The languages of Tcigus maybe
